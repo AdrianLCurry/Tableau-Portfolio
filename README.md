@@ -2,6 +2,10 @@
 
 Above you will find Tableau files connected to my portfolio projects. Below is a log of my Tableau skillset!
 
+I have numbered each category of skills for easy reference for reviewers and future analysts.
+
+**DON'T FORGET TO USE THE FILTER BUTTON FOR EASY NAVIGATION.**
+
 # 1. Managing Data Sources and Visualizations
 
 * Connecting to a data source
