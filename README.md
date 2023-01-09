@@ -14,7 +14,16 @@ I have numbered each category of skills for easy reference for reviewers and fut
 * Cleaning up source data
 * Reordering fields in a visualization
 * Changing the summary operation
-* Splitting text into multiple columns 
+* Splitting text into multiple columns
+* Live Connections and Extracts (TC)
+* Filtering (TC)
+* Data cleaning with data interpreter (TC)
+* Renaming/hiding columns (TC)
+* Grouping entries (TC)
+* Pivoting columns into rows (TC)
+* Splitting fields using delimiters (TC)
+* Unions / Joins / Data blending (TC)
+ 
 
 # 2. Managing Tableau Worksheets and Workbooks
 
@@ -34,7 +43,7 @@ I have numbered each category of skills for easy reference for reviewers and fut
 * Creating a calculate field 
 * Creating  a calculated field on a shelf
 * Adding a table calculation 
-* Using level of detail expressions
+* Using level of detail (LOD) expressions
 * Creating calculations in dialog boxes
 
 # 4. Analyzing Data
@@ -54,6 +63,7 @@ I have numbered each category of skills for easy reference for reviewers and fut
 * Editing, clearing, and deleting filters 
 * Filtering data using parameters 
 * Editing a deleting parameters
+* Filtering between sheets (TC)
 
 # 6. Defining Groups and Sets
 
@@ -64,6 +74,7 @@ I have numbered each category of skills for easy reference for reviewers and fut
 * Defining a set 
 * Creating summaries using a set
 * Combining, editing, and deleting sets
+* Defining hierarchies (TC)
 
 # 7. Creating Basic Visualizations
 
@@ -101,9 +112,11 @@ I have numbered each category of skills for easy reference for reviewers and fut
 
 # 11. Creating Dashboards and Actions
 
-* Presenting data using Storylines 
-* Creating a dashboard 
+* Presenting data using Storylines
+* Creating a dashboard
 * Arranging and resizing dashboard elements
 * Creating nested containers
 * Replacing a worksheet in a dashboard
-* Defining filter, highlight, and parameter actions 
+* Defining filter and highlight actions
+* Defining parameter actions
+
